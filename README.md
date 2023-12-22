@@ -1,4 +1,4 @@
-# File Uploads in Symfony
+# Webpack Encore: Frontend like a Pro!
 
 Well hi there! This repository holds the code and script
 for the [Webpack Encore: Frontend like a Pro!](https://symfonycasts.com/screencast/webpack-encore) course on SymfonyCasts.
