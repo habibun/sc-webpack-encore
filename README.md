@@ -1,7 +1,7 @@
 # File Uploads in Symfony
 
 Well hi there! This repository holds the code and script
-for the [File Uploads in Symfony](https://symfonycasts.com/screencast/symfony-uploads) course on SymfonyCasts.
+for the [Webpack Encore: Frontend like a Pro!](https://symfonycasts.com/screencast/webpack-encore) course on SymfonyCasts.
 
 ## Setup
 
